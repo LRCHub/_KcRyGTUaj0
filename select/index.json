@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君と電波塔の交信",
+  "base_artist": "natori",
+  "createdAt": "2026-02-19T02:59:50.440886Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君と電波塔の交信",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_君と電波塔の交信_なとり.txt"
+    }
+  ]
+}
